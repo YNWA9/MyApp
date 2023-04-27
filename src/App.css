@@ -1,0 +1,31 @@
+.Main{
+  font-weight: bold;
+  color: rgb(233, 9, 9);
+  text-align: center;
+  background-color: aqua;
+  margin-top: 2mm;
+}
+
+.Img{
+  text-align: center;
+  margin-top: 0mm;
+  background-color: rgba(158, 211, 231, 0.918);
+}
+
+.Flex{
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+}
+
+.Thumbnail{
+  padding-left: 20px;
+}
+
+.Clicked{
+  border: 5px solid rgba(5, 173, 13, 0.938);
+}
+
+.Border{
+  border: 10px solid goldenrod;
+}
