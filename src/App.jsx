@@ -43,9 +43,7 @@ function App() {
       </div>
       </div>
     );
-   /* From .map array method create new array to open all existing images.
-      Anton Prasantha Fernando All Right Reserved!. 
-            27/04/2023 */
+   // From .map array method create new array to open all existing images.
 }
 
 export default App;
