@@ -23,7 +23,8 @@ function App() {
 
    /* React Hook useState use to change main image.
       console.log method use to get console value.
-      it's help to update index value. */ 
+      it's help to update index value. setSliderData updates
+      sliderData value */ 
 
   return (
       <div> 
@@ -42,7 +43,9 @@ function App() {
       </div>
       </div>
     );
-   // From .map array method create new array to open all existing images.
+   /* From .map array method create new array to open all existing images.
+      Anton Prasantha Fernando All Right Reserved!. 
+            27/04/2023 */
 }
 
 export default App;
