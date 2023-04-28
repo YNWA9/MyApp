@@ -23,8 +23,7 @@ function App() {
 
    /* React Hook useState use to change main image.
       console.log method use to get console value.
-      it's help to update index value. setSliderData updates
-      sliderData value */ 
+      it's help to update index value. */ 
 
   return (
       <div> 
