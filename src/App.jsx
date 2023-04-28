@@ -43,7 +43,7 @@ function App() {
       </div>
       </div>
     );
-   // From .map array method create new array to open all existing images.
+   /* From .map array method create new array to open all existing images. */
 }
 
 export default App;
