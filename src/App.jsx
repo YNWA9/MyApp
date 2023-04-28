@@ -45,7 +45,10 @@ function App() {
     );
 
    /* From .map array method create new array to open all existing images.
-      Anton Prasantha Fernando All Right Reserved!. */
+      Anton Prasantha Fernando All Right Reserved!. 
+                   27/04/02023 */
+  
+
 
 }
 
